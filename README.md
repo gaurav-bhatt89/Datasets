@@ -12,4 +12,6 @@ Linear Regression
   3. Ecommerce_Customers.csv
 
 Logistic Regression
-  1. 
+  1. Titanic_dataset.csv
+  2. Advertising.csv
+  3. Loan_Data.csv
