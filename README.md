@@ -15,3 +15,6 @@ Logistic Regression
   1. Titanic_dataset.csv
   2. Advertising.csv
   3. Loan_Data.csv
+
+Decision Tree / Random Forest
+  1. Loan_Data_DT_RF.csv
