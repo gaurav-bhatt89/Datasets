@@ -18,3 +18,4 @@ Logistic Regression
 
 Decision Tree / Random Forest
   1. Loan_Data_DT_RF.csv
+  2. [Credit_Card_Fraud](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction) 150+MB, 550K rows
